@@ -6,7 +6,7 @@
 - [x] Scaffold basic ui
 - [x] Set up database (vercel postgres)
 - [x] Attach database to UI
-- [ ] Add Auth
+- [x] Add Auth
 - [ ] Add Image upload
 - [ ] Error management (sentry)
 - [ ] Routing/image page 
